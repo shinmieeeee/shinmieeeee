@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @shinmieeeee
 - 👀 I’m interested in something fun!!
 - 🌱 I’m currently learning computer programming ^-^
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I am fun and that is the fact!
 
 <!---
 shinmieeeee/shinmieeeee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
