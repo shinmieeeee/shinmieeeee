@@ -2,31 +2,22 @@
 <h2 align="center">🌷 Hello? I'm Shin-mie! 🌷</h2>
 <p align="center">
   A curious Computer Science student 💻 <br>
-  ☕ • 🦦 • 🎨 <br>
+  🍵🎨💿📸 <br>
 
 ---
 
 ### 🧁 About Me
-- 🎓 CS Student @ [Your University]
-- 💻 Currently learning: Java, Git, OOP, Web Dev
-- 📖 Hobbies: coding, reading webtoons, making playlists
-- 🌱 Fun fact: I name all my bugs before I fix them
-
----
-
-### 📚 Projects I'm Proud Of
-- 💡 **[Fibonacci Visualizer](#)** – Java console app for number sequences
-- 🌐 **[My Personal Website](#)** – Simple portfolio made with HTML/CSS
-- 🔢 **[Super Digit Calculator](#)** – Checks the "super digit" of any number!
+- 🎓 CS Student, Batangas State University
+- 💻 Currently learning: everything😭
+- 📖 Hobbies: drawing, painting
+- 🌱 Fun fact: "blushaholic"
 
 ---
 
 ### 💖 Let's Connect!
 <p align="left">
-  💌 Email: shinmie@example.com  
-  🌐 Portfolio: [your-portfolio-link.com](#)  
-  🐦 Twitter: [@shinmie_coding](#)  
-  📸 IG: [@shinmie.codes](#)
+  💌 Email: sheashinmie04@gmail.com   
+  📸 IG: https://www.instagram.com/_shinmie/
 </p>
 
 ---
