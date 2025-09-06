@@ -2,7 +2,7 @@
 <h2 align="center">🌸 Hello, I'm Shin-mie! 🌸</h2>
 
 <p align="center">
-  A curious computer science student 💻 <br>
+  A curious Computer Science student 💻 <br>
   Java enthusiast ☕ • Learning one bug at a time 🐛 <br>
   Welcome to my cozy corner of the internet ✨
 </p>
