@@ -1,11 +1,8 @@
 <!-- Hi there 👋 -->
-<h2 align="center">🪷 Hello, I'm Shin-mie! 🪷</h2>
-
+<h2 align="center">🌷 Hello? I'm Shin-mie! 🌷</h2>
 <p align="center">
   A curious Computer Science student 💻 <br>
-  ☕ • 🦦 • 🐛 <br>
-  Welcome to my cozy corner of the internet ✨
-</p>
+  ☕ • 🦦 • 🎨 <br>
 
 ---
 
